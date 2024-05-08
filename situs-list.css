@@ -70,7 +70,7 @@ h1 {
     padding: 30px;
 }
 
-.imgflora {
+.imgsitus {
     height: 100%;
     width: 100%;
     object-fit: contain;
@@ -94,153 +94,90 @@ main {
 
 .cards a {
     color: white;
-    font-weight: bold;
     text-decoration: none;
+    font-weight: bold;
     padding: 60px;
     display: inline-flex;
 }
 
-.asem-card {
+.visitor-card {
     height: 150px;
     width: 300px;
     border-radius: 20px;
     background-color: #374231;
-    background-image: url(/assets/asem.jpg);
+    background-image: url(assets/visitor-center.jpg);
     background-size: cover;
 }
 
-.pereng-card {
+.evergreen-card {
     height: 150px;
     width: 300px;
     border-radius: 20px;
     background-color: #374231;
-    background-image: url(/assets/landingcopy.jpeg);
+    background-image: url(assets/evergreen.jpg);
     background-size: cover;
 }
 
-.mimbo-card {
+.bekol-card {
     height: 150px;
     width: 300px;
     border-radius: 20px;
     background-color: #374231;
-    background-image: url(/assets/mimbo.jpg);
+    background-image: url(assets/savanabekol.jpg);
     background-size: cover;
 }
 
-.bidara-card {
+.sumur-card {
     height: 150px;
     width: 300px;
     border-radius: 20px;
     background-color: #374231;
-    background-image: url(/assets/bidara.jpg);
+    background-image: url(assets/sumur.png);
     background-size: cover;
 }
 
-.kesambi-card {
+.gunung-card {
     height: 150px;
     width: 300px;
     border-radius: 20px;
     background-color: #374231;
-    background-image: url(/assets/kesambi.jpg);
+    background-image: url(assets/gunung-baluran.jpg);
     background-size: cover;
 }
 
-.ketapang-card {
+.mangrove-card {
     height: 150px;
     width: 300px;
     border-radius: 20px;
     background-color: #374231;
-    background-image: url(/assets/ketapang.jpg);
+    background-image: url(assets/mangrove.jpg);
     background-size: cover;
 }
 
-.pilang-card {
+.goa-card {
     height: 150px;
     width: 300px;
     border-radius: 20px;
     background-color: #374231;
-    background-image: url(/assets/pilang.jpg);
+    background-image: url(assets/goa-jepang.jpg);
     background-size: cover;
 }
 
-.serut-card {
+.geosite-card {
     height: 150px;
     width: 300px;
     border-radius: 20px;
     background-color: #374231;
-    background-image: url(/assets/serut.jpg);
+    background-image: url(assets/geosite.jpg);
     background-size: cover;
 }
 
-.trembesi-card {
+.bama-card {
     height: 150px;
     width: 300px;
     border-radius: 20px;
     background-color: #374231;
-    background-image: url(/assets/trembesi.jpg);
-    background-size: cover;
-}
-
-.walikukun-card {
-    height: 150px;
-    width: 300px;
-    border-radius: 20px;
-    background-color: #374231;
-    background-image: url(/assets/walikukun.jpg);
-    background-size: cover;
-}
-
-.bakau-ireng-card {
-    height: 150px;
-    width: 300px;
-    border-radius: 20px;
-    background-color: #374231;
-    background-image: url(/assets/bakau-hitam.jpg);
-    background-size: cover;
-}
-
-.bakau-putih-card {
-    height: 150px;
-    width: 300px;
-    border-radius: 20px;
-    background-color: #374231;
-    background-image: url(/assets/bakau-putih.jpg);
-    background-size: cover;
-}
-
-.gebang-card {
-    height: 150px;
-    width: 300px;
-    border-radius: 20px;
-    background-color: #374231;
-    background-image: url(/assets/gebang.jpg);
-    background-size: cover;
-}
-
-.krasak-card {
-    height: 150px;
-    width: 300px;
-    border-radius: 20px;
-    background-color: #374231;
-    background-image: url(/assets/krasak.jpg);
-    background-size: cover;
-}
-
-.kepuh-card {
-    height: 150px;
-    width: 300px;
-    border-radius: 20px;
-    background-color: #374231;
-    background-image: url(/assets/kepuh.jpg);
-    background-size: cover;
-}
-
-.pereng-card {
-    height: 150px;
-    width: 300px;
-    border-radius: 20px;
-    background-color: #374231;
-    background-image: url(/assets/pereng.jpg);
+    background-image: url(assets/pantaibama.jpg);
     background-size: cover;
 }
 
